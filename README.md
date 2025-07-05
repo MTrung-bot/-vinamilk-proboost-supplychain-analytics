@@ -60,14 +60,15 @@ Vinamilk_ProBoost_SupplyChain/
 │   ├── vinamilk_powerbi_dashboard.pbix
 │   ├── vinamilk_logo.png
 │   └── screenshots/
-│       ├── dashboard_1_overview.png
-│       ├── dashboard_2_channel_performance.png
-│       ├── dashboard_3_delivery.png
-│       ├── dashboard_4_inventory.png
-│       ├── dashboard_5_province_revenue.png
-│       ├── dashboard_6_top_sku.png
-│       ├── dashboard_7_return_analysis.png
-│       └── dashboard_8_forecast.png
+│       ├── ![{07EEB116-582A-42EC-9F37-E7C9E474ED9C}](https://github.com/user-attachments/assets/5db45366-6162-4b38-96bf-911f61d9a2ec)
+│       ├── ![{AC4B84CD-F4CC-4810-8A46-C01606A2287B}](https://github.com/user-attachments/assets/69c6a8fa-aadf-4b0c-b7af-26ee128e4bc4)
+│       ├── ![{30FB325B-F01D-4145-A82D-88D1CC223D17}](https://github.com/user-attachments/assets/b0f87715-b318-4777-971b-fe0dc1e4e6a0)
+│       ├── ![Uploading {3AC1BACA-7746-4AF3-BA90-D43A8FD9F1F8}.png…]()
+│       ├── ![{534A4D1C-E887-4922-95DC-D802A05479B9}](https://github.com/user-attachments/assets/22955a74-c41c-40f2-9a86-9d2ced445d4d)
+│       ├── ![{1C1668A9-0E47-4CF4-A525-ACD42585B484}](https://github.com/user-attachments/assets/1e7a9732-fc1b-49cc-b47a-c87e3580839a)
+│       ├── ![{F31E5A22-6474-4F50-A521-CB7C94214187}](https://github.com/user-attachments/assets/4fee4dba-923a-40be-96b6-bf1e0df343a9)
+│       └── ![{F0096A59-597C-4038-81B5-48E8B4721FAE}](https://github.com/user-attachments/assets/195b3bc2-6369-4f48-86cb-386d925d110f)
+
 │
 ├── README.md
 ├── LICENSE
